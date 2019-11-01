@@ -1,4 +1,4 @@
 # GetBub
  repository ownner infoend / gethub
  
- Infoend GetBub repository
+ Infoend GetBub repository first
